@@ -33,12 +33,12 @@ if css_file.exists():
 # Sidebar
 # ------------------------------------------------------
 
-st.sidebar.title("Market Trend Analyzer")
+st.sidebar.image("assets/logo.png", width=180)
 
-st.sidebar.markdown("---")
-
-st.sidebar.info(
-"""
+st.sidebar.markdown(
+    "<h2 style='text-align:center;'>Market Trend Analyzer</h2>",
+    unsafe_allow_html=True
+)
 Navigate using the pages listed below.
 
 • Home
