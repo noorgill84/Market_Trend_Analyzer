@@ -14,7 +14,7 @@ from pathlib import Path
 
 st.set_page_config(
     page_title="Market Trend Analyzer",
-    page_icon="assets/logo.png",
+    page_icon="Market_Trend_Analyzer/assets/logo.png",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -33,7 +33,7 @@ if css_file.exists():
 # Sidebar
 # ------------------------------------------------------
 
-st.sidebar.image("assets/logo.png", width=180)
+st.sidebar.image("Market_Trend_Analyzer/assets/logo.png", width=180)
 
 st.sidebar.markdown(
     "<h2 style='text-align:center;'>Market Trend Analyzer</h2>",
