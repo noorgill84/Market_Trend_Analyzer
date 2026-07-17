@@ -39,7 +39,7 @@ st.sidebar.markdown(
     "<h2 style='text-align:center;'>Market Trend Analyzer</h2>",
     unsafe_allow_html=True
 )
-"""Navigate using the pages listed below.
+Navigate using the pages listed below.
 
 • Home
 
@@ -55,7 +55,7 @@ st.sidebar.markdown(
 
 • About
 
-) """
+)
 
 st.sidebar.markdown("---")
 
