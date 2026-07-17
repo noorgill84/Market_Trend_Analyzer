@@ -39,23 +39,7 @@ st.sidebar.markdown(
     "<h2 style='text-align:center;'>Market Trend Analyzer</h2>",
     unsafe_allow_html=True
 )
-"""Navigate using the pages listed below.
 
-• Home
-
-• Sales Analysis
-
-• Product Analysis
-
-• Regional Analysis
-
-• Sales Prediction
-
-• Business Insights
-
-• About
-
-) """
 
 st.sidebar.markdown("---")
 
