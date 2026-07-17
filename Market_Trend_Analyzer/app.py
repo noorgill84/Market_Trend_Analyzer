@@ -54,8 +54,8 @@ st.sidebar.markdown(
 • Business Insights
 
 • About
-"""
-)
+
+) """
 
 st.sidebar.markdown("---")
 
